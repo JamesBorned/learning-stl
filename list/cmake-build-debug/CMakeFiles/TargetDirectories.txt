@@ -1,0 +1,3 @@
+C:/Users/HP/source/repos/learning-stl/list/cmake-build-debug/CMakeFiles/list.dir
+C:/Users/HP/source/repos/learning-stl/list/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/HP/source/repos/learning-stl/list/cmake-build-debug/CMakeFiles/rebuild_cache.dir
